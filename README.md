@@ -1,6 +1,6 @@
 # Hi, I'm Lisa
 
-Business × Data | HEC Paris | Currently in Data/AI consulting at Wavestone
+Business × Data | HEC Paris | Currently in Data/AI consulting at Wavestone (CTO Adisory)
 
 I combine a generalist business background with hands-on technical skills in data, automation, and applied AI.
 
