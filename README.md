@@ -19,9 +19,11 @@ I combine a generalist business background with hands-on technical skills in dat
 
 ## Projects
 
-- [Dataiku DSS — Fraud Detection](https://github.com/lisa-coicadan/dataiku-dss-fraud-detection)
-- [Tableau - Olist Dashboard KPIs](https://github.com/lisa-coicadan/tableau-olist-dashboard)
-- [Lovable - Sport Program (Private Use Case)](https://github.com/lisa-coicadan/lovable-sport-program)
+- [Dataiku DSS — Fraud Detection (Team Project)](https://github.com/lisa-coicadan/dataiku-dss-fraud-detection)
+- [Tableau - Olist Dashboard KPIs (Team Project)](https://github.com/lisa-coicadan/tableau-olist-dashboard)
+- [Lovable - Sport Program (Personal Use)](https://github.com/lisa-coicadan/lovable-sport-program)
+- [Python - Classification & Regression (Exam)](https://github.com/lisa-coicadan/python-classification-regression)
+
 ---
 
 ## Certification
