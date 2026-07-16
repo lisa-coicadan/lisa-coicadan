@@ -1,41 +1,35 @@
-# Salut, je suis Lisa 👋
+# Hi, I'm Lisa
 
-**Étudiante HEC Paris (Grande École, 2024–2028)** | Profil hybride **Business × Data**
+Business × Data | HEC Paris | Currently in Data/AI consulting at Wavestone
 
-Je combine une formation business généraliste (stratégie, marketing, finance) avec des compétences techniques concrètes en data, automatisation et IA appliquée — actuellement en stage chez **Wavestone** (Cloud Migration & AI Agents).
+I combine a generalist business background with hands-on technical skills in data, automation, and applied AI.
 
-Je cherche mon prochain stage/césure (janvier–juin 2027) sur des rôles **RevOps / GTM Ops / BizOps Analyst / Product Data Analyst**...
-
----
-
-## 🧰 Compétences techniques
+**Skills:** 
 
 **Data & Analytics**
-`SQL` · `Tableau` · `Dataiku DSS (certifiée Core Designer)` · `Excel avancé`
+`SQL` · `Tableau` · `Dataiku DSS` · `Excel avancé`
 
 **Automatisation & IA**
 `Make.com` · `Copilot Studio` · `Zapier` · `API integrations`
 
 **Dev & Outils**
-`Python` · `Git/GitHub`
+`Python` · `Lovable` · `Git/GitHub`
 
 ---
 
-## 🚀 Projets phares
+## Projects
 
-| Projet | Description | Stack |
-
-(à remplir)
+- [Dataiku DSS — Fraud Detection](https://github.com/lisa-coicadan/dataiku-dss-fraud-detection)
 
 ---
 
-## 🎓 Certification
+## Certification
 
 - **Dataiku Core Designer** — [Certificate](https://verify.skilljar.com/c/sjut9bsk8di4)
 
 ---
 
-## 📫 Me contacter
+## Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/lisa-coicadan-9aa30b204/) · [Email](mailto:lisa.coicadan@hec.edu)
 
