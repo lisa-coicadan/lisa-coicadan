@@ -23,6 +23,7 @@ I combine a generalist business background with hands-on technical skills in dat
 - [Tableau - Olist Dashboard KPIs (Team Project)](https://github.com/lisa-coicadan/tableau-olist-dashboard)
 - [Lovable - Sport Program (Personal Use)](https://github.com/lisa-coicadan/lovable-sport-program)
 - [Python - Classification & Regression (Exam)](https://github.com/lisa-coicadan/python-classification-regression)
+- [Make - Job Search Automation (MOOC)](https://github.com/lisa-coicadan/make-job-search-automation)
 
 ---
 
