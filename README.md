@@ -1,16 +1,41 @@
-## Hi there 👋
+# Salut, je suis Lisa 👋
 
-<!--
-**lisa-coicadan/lisa-coicadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiante HEC Paris (Grande École, 2024–2028)** | Profil hybride **Business × Data**
 
-Here are some ideas to get you started:
+Je combine une formation business généraliste (stratégie, marketing, finance) avec des compétences techniques concrètes en data, automatisation et IA appliquée — actuellement en stage chez **Wavestone** (Cloud Migration & AI Agents).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je cherche mon prochain stage/césure (janvier–juin 2027) sur des rôles **RevOps / GTM Ops / BizOps Analyst / Product Data Analyst**...
+
+---
+
+## 🧰 Compétences techniques
+
+**Data & Analytics**
+`SQL` · `Tableau` · `Dataiku DSS (certifiée Core Designer)` · `Excel avancé`
+
+**Automatisation & IA**
+`Make.com` · `Copilot Studio` · `Zapier` · `API integrations`
+
+**Dev & Outils**
+`Python` · `Git/GitHub`
+
+---
+
+## 🚀 Projets phares
+
+| Projet | Description | Stack |
+
+(à remplir)
+
+---
+
+## 🎓 Certification
+
+- **Dataiku Core Designer** — [Certificate](https://verify.skilljar.com/c/sjut9bsk8di4)
+
+---
+
+## 📫 Me contacter
+
+[LinkedIn](https://www.linkedin.com/in/lisa-coicadan-9aa30b204/) · [Email](mailto:lisa.coicadan@hec.edu)
+
