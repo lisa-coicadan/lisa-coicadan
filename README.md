@@ -2,7 +2,7 @@
 
 Business × Data | HEC Paris | Currently in Data/AI consulting at Wavestone (CTO Adisory)
 
-I combine a generalist business background with hands-on technical skills in data, automation, and applied AI.
+📍 Open to internship opportunities starting January 2027.
 
 **Skills:** 
 
@@ -18,6 +18,8 @@ I combine a generalist business background with hands-on technical skills in dat
 ---
 
 ## Projects
+
+Mix of academic and personal projects completed during the 2025/2026 school year.
 
 - [Dataiku DSS — Fraud Detection (Team Project)](https://github.com/lisa-coicadan/dataiku-dss-fraud-detection)
 - [Tableau - Olist Dashboard KPIs (Team Project)](https://github.com/lisa-coicadan/tableau-olist-dashboard)
@@ -35,5 +37,5 @@ I combine a generalist business background with hands-on technical skills in dat
 
 ## Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/lisa-coicadan-9aa30b204/) · [Email](mailto:lisa.coicadan@hec.edu)
+[LinkedIn](https://www.linkedin.com/in/lisa-coicadan-9aa30b204/) · [Email : lisa.coicadan@hec.edu](mailto:lisa.coicadan@hec.edu)
 
