@@ -29,7 +29,6 @@ A mobile-first PWA for hybrid strength training, first built by prompting on Lov
 
 Mix of academic and personal projects completed during the 2025/2026 school year.
 
-- [Lovable - Sport Program (Personal Use)](https://github.com/lisa-coicadan/lovable-sport-program)
 - [Dataiku DSS — Fraud Detection (Team Project)](https://github.com/lisa-coicadan/dataiku-dss-fraud-detection)
 - [Tableau - Olist Dashboard KPIs (Team Project)](https://github.com/lisa-coicadan/tableau-olist-dashboard)
 - [Python - Classification & Regression (Exam)](https://github.com/lisa-coicadan/python-classification-regression)
@@ -39,8 +38,8 @@ Mix of academic and personal projects completed during the 2025/2026 school year
 
 ## Certification
 
-- **Dataiku Core Designer** — [Certificate](https://verify.skilljar.com/c/sjut9bsk8di4)
-- **Claude Code in Action** — completed
+- **Dataiku Core Designer** — [Certificate](https://verify.skilljar.com/c/sjut9bsk8di4) 17/01/2026
+- **Claude Code in Action** — [Certificate](https://verify.skilljar.com/c/xd4mgmvk8cia) 29/07/2026
 - **Claude Code Foundation Architect** — scheduled late September 2026
 
 ---
