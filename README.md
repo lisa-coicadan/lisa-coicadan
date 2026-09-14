@@ -33,6 +33,7 @@ Mix of academic and personal projects completed during the 2025/2026 school year
 - [Tableau - Olist Dashboard KPIs (Team Project)](https://github.com/lisa-coicadan/tableau-olist-dashboard)
 - [Python - Classification & Regression (Exam)](https://github.com/lisa-coicadan/python-classification-regression)
 - [Make - Job Search Automation (MOOC)](https://github.com/lisa-coicadan/make-job-search-automation)
+- [Python - Interview RAG (Personal Project)](https://github.com/lisa-coicadan/interview-rag)
 
 ---
 
